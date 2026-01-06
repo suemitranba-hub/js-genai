@@ -1,7 +1,7 @@
 {
   "recordID": "Client_Tests_Vertex_AI_can_use_JSON_schema_in_parametersJsonSchema_to_build_FunctionDeclaration",
   "interactions": [
-    {
+    {ai
       "request": {
         "method": "POST",
         "url": "/v1beta1/projects/REDACTED/locations/REDACTED/publishers/google/models/gemini-2.5-flash:generateContent",
